@@ -138,7 +138,7 @@ Cada módulo contiene un archivo SQL con ejemplos y ejercicios prácticos. Puede
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/mysql-bootcamp.git
+   git clone https://github.com/tu_usuario/MySQL_Course.git
    ```
 2. Navega a cada módulo y ejecuta las consultas en tu cliente de MySQL.
 
@@ -148,7 +148,7 @@ Si tienes sugerencias o mejoras para este repositorio, siéntete libre de hacer 
 
 ## Contacto
 
-Si tienes alguna pregunta o comentario, puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/tu-perfil) o directamente en GitHub.
+Si tienes alguna pregunta o comentario, puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/leonel-ale-45205b80/) o directamente en GitHub.
 
 ---
 
